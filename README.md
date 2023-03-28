@@ -1,6 +1,9 @@
 # Kodluyoruz Ilk Repo
 *Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.*
 
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
+
 
 
 ## Installation
@@ -24,4 +27,9 @@
 
 ## License
 [*MIT*](https://choosealicense.com/licenses/mit/)
+
+
+
+![](https://imgyukle.com/f/2023/03/28/QvJRrY.png)
+
 
